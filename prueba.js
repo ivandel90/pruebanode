@@ -1,1 +1,1 @@
-console.log("hola gitisto0");
+console.log("hola gitisto");
